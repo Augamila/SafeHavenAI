@@ -1,0 +1,21 @@
+.block-container {padding-top: 1rem;}
+.safehaven-appbar {
+    background: linear-gradient(90deg, #6A1B9A, #9C27B0);
+    color: white;
+    padding: 0.9rem 1.2rem;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+    display: flex; align-items: center; gap: 0.75rem;
+}
+.safehaven-appbar img {height: 32px;}
+.safehaven-tag {
+    background: rgba(255,255,255,0.15);
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    margin-left: auto;
+}
+.footer-note {
+    margin-top: 2rem; font-size: 0.85rem; color: #6A1B9A88;
+    text-align: center;
+}
